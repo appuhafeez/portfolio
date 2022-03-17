@@ -1,0 +1,22 @@
+.black-btn {
+  cursor: pointer;
+  outline: none;
+  border: 2px solid white;
+  background-color: white;
+  font-size: medium;
+  font-weight: 500;
+  border-radius: 1.2vw;
+  padding: 10px;
+  color: white;
+  display: inline;
+
+  background-color: #000010;
+  transition: all 0.2s;
+  transition-duration: 450ms;
+}
+.div-data {
+  width: 100%;
+}
+.more-list {
+  color: white;
+}

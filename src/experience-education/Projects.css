@@ -1,0 +1,96 @@
+.img-tag {
+  max-width: 650px;
+}
+.main-div {
+  text-align: left;
+  width: 100%;
+  justify-content: left;
+}
+.project-heading {
+  color: #ff531a;
+  font-size: 32px;
+}
+.hr-end {
+  display: block;
+  border: 2px inset;
+  background-color: white;
+  overflow: hidden;
+}
+.prj-year {
+  font-size: 18px;
+  padding-left: 5px;
+  color: #bfbfbf;
+}
+.desc-heading {
+  padding-top: 10px;
+  font-size: 22px;
+  font-weight: 500;
+  text-align: left;
+  width: 100%;
+  justify-content: left;
+  color: white;
+}
+.desc-p {
+  text-align: left;
+  width: 100%;
+  justify-content: left;
+  color: white;
+}
+.mobile-img {
+  max-width: 300px;
+}
+.orange-btn {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: #ff531a;
+  font-size: medium;
+  font-weight: 500;
+  border-radius: 1vw;
+  padding: 10px;
+  color: white;
+  display: inline;
+  transition: all 0.2s;
+  transition-duration: 450ms;
+}
+.orange-btn:hover {
+  background-color: white;
+  color: black;
+}
+.black-btn {
+  cursor: pointer;
+  outline: none;
+  border: 2px solid white;
+  background-color: white;
+  font-size: medium;
+  font-weight: 500;
+  border-radius: 1.2vw;
+  padding: 10px;
+  color: white;
+  display: inline;
+
+  background-color: #000010;
+  transition: all 0.2s;
+  transition-duration: 450ms;
+}
+.black-btn:hover {
+  background-color: white;
+  color: black;
+}
+.btn-div {
+  padding-right: 5px;
+}
+.badge-span {
+  padding-left: 5px;
+  margin-left: 10px;
+  font-size: 15px;
+}
+.tech-used {
+  color: white;
+  text-align: left;
+  width: 100%;
+  font-weight: 200;
+  font-size: 25px;
+  padding-bottom: 10px;
+  justify-content: left;
+}

@@ -1,0 +1,55 @@
+.company-name {
+  color: #ff531a;
+  font-size: 32px;
+  cursor: pointer;
+}
+.img-logo {
+  max-height: 80px;
+  transition-duration: 450ms;
+}
+.img-logo:hover {
+  transform: scale(1.2);
+}
+.basic_info {
+  text-align: left;
+  width: 100%;
+  justify-content: left;
+  padding-left: 5px;
+}
+.years-exp {
+  color: #d9d9d9;
+  font-size: 20px;
+}
+.full-info {
+  text-align: left;
+  width: 100%;
+  font-size: 20px;
+  justify-content: left;
+  color: white;
+}
+.designation {
+  padding-top: 10px;
+  font-size: 22px;
+  font-weight: 500;
+}
+.start-end {
+  font-size: 18px;
+  color: #bfbfbf;
+}
+.more-list {
+  font-size: 18px;
+}
+.desktop {
+  padding-left: 40px;
+}
+.hr-end {
+  display: block;
+  border: 2px inset;
+  overflow: hidden;
+}
+.from-to {
+  color: #bfbfbf;
+}
+.clg-name {
+  color: white;
+}

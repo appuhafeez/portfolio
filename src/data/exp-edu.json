@@ -1,0 +1,94 @@
+{
+  "experience": [
+    {
+      "companyName": "Reputation",
+      "from": "2022-02-21",
+      "to": "Present",
+      "work": "Backend Java developer",
+      "type": "Full-time",
+      "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE-EzjgSaTVlg/company-logo_200_200/0/1611594277312?e=2147483647&v=beta&t=t7lm3ejRgrVCc4oe8W6WnAnnjZHk4dQ0W5q4-mZxJ-Y",
+      "companySite": "https://reputation.com/",
+      "works": [
+        {
+          "designation": "Senior Software Engineer",
+          "from": "2022-02-21",
+          "to": "Present",
+          "location": "Hyderabad, Telangana, India",
+          "more": ["Working for platform team"]
+        }
+      ]
+    },
+    {
+      "companyName": "DBS Bank",
+      "from": "2018-07-21",
+      "to": "2022-02-11",
+      "work": "Backend Java developer",
+      "type": "Full-time",
+      "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEaBXOgNiu3sg/company-logo_200_200/0/1531757731989?e=1655337600&v=beta&t=cJdeacfGHjGMmjQKINT1IVDqpb2EOBsCUWhPxIzNnZ0",
+      "companySite": "https://www.dbs.com.sg/personal/deposits/pay-with-ease/dbs-paylah",
+      "works": [
+        {
+          "from": "2020-09-26",
+          "to": "2022-02-11",
+          "designation": "Analyst",
+          "location": "Hyderabad, Telangana, India",
+          "more": [
+            " Worked in migrating in-memory session to Redis session store to remove concept of sticky session and maintain user session even when service is restarted or scale in/out.",
+            "Worked in project DBS Paylah as java backend developer with tech stack Spring boot, PCF, Microservices, Unit and Integration test with Junit, IBM MQ, Kafka.",
+            "Also took part in development of various features like NETS scan and pay, bill payments, online purchases in payment domain."
+          ]
+        },
+        {
+          "from": "2018-07-21",
+          "to": "2020-09-25",
+          "designation": "Technical Associate",
+          "location": "Hyderabad, Telangana, India",
+          "more": [
+            "Worked in developing feature QR gift which lets people to load and redeem money with QR code (developed new microservices from scratch) with TDD 85% code coverage.",
+            "Worked with spring cloud services like config-server, discover/eureka server, feign client in PCF.",
+            "Worked with senior tech team in migrating project from monolith Kony framework to Spring boot microservices in PCF.",
+            "Wrote java libraries can be used commonly across domains in our Paylah project which reduces developer effort to do same common procedure for new or updating old domain.",
+            "Created build and deploy pipelines using Jenkins progressing project from 0% automation to 100% automated pipelines with blue green deployments."
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "companyName": "KLUniversity",
+      "from": "2014-07-01",
+      "to": "2018-05-30",
+      "grade": "7.9",
+      "degree": "Bachelor's degree",
+      "field": "Computer Science",
+      "collageLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEbnIc5Va_TFQ/company-logo_200_200/0/1519922059055?e=2147483647&v=beta&t=MRAgF6TFqRD-FEp4OhUCq7L8aVUITBb4DIbG5Rq3At0",
+      "collageSite": "https://www.kluniversity.in/",
+      "works": [
+        "Activities and societies: coordinator ignite 2k17",
+        "Worked during education for startups klufn and klradio for Android app and backend development"
+      ]
+    },
+    {
+      "companyName": "Nalanda Jr",
+      "from": "2012-06-01",
+      "to": "2014-04-30",
+      "grade": "893",
+      "degree": "Inter",
+      "field": "MPC",
+      "collageLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQF0C5AQJTjOnA/company-logo_200_200/0/1519952645528?e=2147483647&v=beta&t=q7jRM4a3kw2-5iEKR6R7tp_LLEcPw4CL3qXqVFdT860",
+      "collageSite": "https://junior.nalanda.edu.in/",
+      "works": []
+    },
+    {
+      "companyName": "LBHS School",
+      "from": "2002-06-01",
+      "to": "2012-06-30",
+      "grade": "7.8",
+      "degree": "Upto 10th standard",
+      "collageLogoUrl": "https://scontent.fhyd10-1.fna.fbcdn.net/v/t1.30497-1/84687230_2222103328096112_4091110349787365376_n.png?stp=c19.0.64.64a_cp0_dst-png_p64x64&_nc_cat=1&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=rdDwZWOnBr0AX9HO9dE&_nc_ht=scontent.fhyd10-1.fna&oh=00_AT81AH-hHN5sccdeD3q7xKVmmBLuhoij95Pcffuz5znL9A&oe=6254E0D7",
+      "collageSite": "https://m.facebook.com/profile.php?id=435091576597847",
+      "works": []
+    }
+  ]
+}

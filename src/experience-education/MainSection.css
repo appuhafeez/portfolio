@@ -1,0 +1,16 @@
+.tab-label {
+  color: white;
+  font-weight: 700;
+}
+.tab-body {
+  height: 550px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.tab-body::-webkit-scrollbar {
+  display: none;
+}
+.main-div {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}

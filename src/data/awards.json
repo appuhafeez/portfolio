@@ -1,0 +1,107 @@
+{
+  "awards": [
+    {
+      "name": "Top Engineering (Team)",
+      "issuedOn": "2022-01-01",
+      "webLink": "https://www.dbs.com/in/index/default.page",
+      "desc": "This award is given for excellent engineering performance of our team through out the year 2021",
+      "link": "https://media-exp1.licdn.com/dms/image/C5622AQFPK10WtcoENA/feedshare-shrink_2048_1536/0/1639473541302?e=1650499200&v=beta&t=f-e5_zFoBgVMa5_tJIXqecKe0Dfag1cvlN0tRJrBjRU",
+      "issuedBy": "DBS Bank",
+      "issuedByImage": "https://media-exp1.licdn.com/dms/image/C4D0BAQEaBXOgNiu3sg/company-logo_200_200/0/1531757731989?e=1655337600&v=beta&t=cJdeacfGHjGMmjQKINT1IVDqpb2EOBsCUWhPxIzNnZ0"
+    },
+    {
+      "name": "Above & Beyond",
+      "webLink": "https://www.dbs.com/in/index/default.page",
+      "issuedOn": "2021-12-03",
+      "desc": "This award is given for outstanding performance by personal willingness to go the extra mile to help others beyond the call of duty",
+      "link": "https://media-exp1.licdn.com/dms/image/C4D22AQERR7NrVcJYLA/feedshare-shrink_2048_1536/0/1638772187908?e=1650499200&v=beta&t=rsoQCJYHGrXEi3MBnX1ta9w7Jb0EFCRI5dijKu5rZ8k",
+      "issuedBy": "DBS Bank",
+      "issuedByImage": "https://media-exp1.licdn.com/dms/image/C4D0BAQEaBXOgNiu3sg/company-logo_200_200/0/1531757731989?e=1655337600&v=beta&t=cJdeacfGHjGMmjQKINT1IVDqpb2EOBsCUWhPxIzNnZ0"
+    },
+    {
+      "name": "Super Tech",
+      "issuedOn": "2021-08-05",
+      "webLink": "https://www.dbs.com/in/index/default.page",
+      "desc": "This award is given for being excellent and activily improving myself with latest technologies helping company by reducing time to investigate and implement new technologies",
+      "link": "https://media-exp1.licdn.com/dms/image/C5622AQGOwVEhW8g8RQ/feedshare-shrink_800/0/1629964728569?e=1650499200&v=beta&t=t1fiWr89KhHA9pkAh3IHb4vl5-N7alZWFaIKkNpCtdo",
+      "issuedBy": "DBS Bank",
+      "issuedByImage": "https://media-exp1.licdn.com/dms/image/C4D0BAQEaBXOgNiu3sg/company-logo_200_200/0/1531757731989?e=1655337600&v=beta&t=cJdeacfGHjGMmjQKINT1IVDqpb2EOBsCUWhPxIzNnZ0"
+    },
+    {
+      "name": "Ghostbusters",
+      "issuedOn": "2021-05-07",
+      "webLink": "https://www.dbs.com/in/index/default.page",
+      "desc": "This award is given for Outstanding performance in driving the resolution of major issues or progressing major projects",
+      "link": "https://media-exp1.licdn.com/dms/image/C4D22AQFl84P059u-Hw/feedshare-shrink_800/0/1620623017162?e=1650499200&v=beta&t=FC7FH3bK8BqL7E525YWwZtlTXlHGKX3Lcbmosu3HYxw",
+      "issuedBy": "DBS Bank",
+      "issuedByImage": "https://media-exp1.licdn.com/dms/image/C4D0BAQEaBXOgNiu3sg/company-logo_200_200/0/1531757731989?e=1655337600&v=beta&t=cJdeacfGHjGMmjQKINT1IVDqpb2EOBsCUWhPxIzNnZ0"
+    },
+    {
+      "name": "Trailblazer",
+      "issuedOn": "2020-10-29",
+      "webLink": "https://www.dbs.com/in/index/default.page",
+      "desc": "This award is given for Outstanding performance through innovative solutions",
+      "link": "https://media-exp1.licdn.com/dms/image/C4D22AQEaQZXy4vSO7g/feedshare-shrink_800/0/1604403915883?e=1650499200&v=beta&t=j61YbP-IISwfLYpbtgsKwfDMclP6SLsIlQbWtM_b8hs",
+      "issuedBy": "DBS Bank",
+      "issuedByImage": "https://media-exp1.licdn.com/dms/image/C4D0BAQEaBXOgNiu3sg/company-logo_200_200/0/1531757731989?e=1655337600&v=beta&t=cJdeacfGHjGMmjQKINT1IVDqpb2EOBsCUWhPxIzNnZ0"
+    },
+    {
+      "name": "Rockstar Rookie",
+      "issuedOn": "2019-07-01",
+      "webLink": "https://www.dbs.com/in/index/default.page",
+      "desc": "This award is given for Outstanding performance during beginning for career(less than an year)",
+      "link": "https://media-exp1.licdn.com/dms/image/C4D22AQEaQZXy4vSO7g/feedshare-shrink_800/0/1604403915883?e=1650499200&v=beta&t=j61YbP-IISwfLYpbtgsKwfDMclP6SLsIlQbWtM_b8hs",
+      "issuedBy": "DBS Bank",
+      "issuedByImage": "https://media-exp1.licdn.com/dms/image/C4D0BAQEaBXOgNiu3sg/company-logo_200_200/0/1531757731989?e=1655337600&v=beta&t=cJdeacfGHjGMmjQKINT1IVDqpb2EOBsCUWhPxIzNnZ0"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Developer Associate",
+      "issuedOn": "2020-08-28",
+      "validFor": "2023-08-28",
+      "webLink": "https://aws.amazon.com/",
+      "link": "https://www.credly.com/badges/7c5047b4-ac67-4ea6-a65c-7e1ec415d880?source=linked_in_profile",
+      "issuedBy": "Amazon Web Services(AWS)",
+      "issuedByImage": "https://media-exp1.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_200_200/0/1640205885683?e=1655337600&v=beta&t=MlDDChzrnrPCvlJTpz7hJgbAMGTzo2IhQ8UihPeCacE"
+    },
+    {
+      "name": "Problem solving",
+      "issuedOn": "2020-08-15",
+      "validFor": "No",
+      "webLink": "https://www.hackerrank.com/",
+      "link": "https://www.hackerrank.com/certificates/c74aa8ff0d74",
+      "issuedBy": "HackerRank",
+      "issuedByImage": "https://media-exp1.licdn.com/dms/image/C560BAQHneWLNCPQgDA/company-logo_200_200/0/1641202397642?e=1655337600&v=beta&t=YGqmRn6NXazdp5EvVa8BA_9-9nI1AQNnF71XSftelWQ"
+    },
+    {
+      "name": "AppSecTitan Silver",
+      "issuedOn": "2020-05-05",
+      "validFor": "No",
+      "webLink": "https://www.dbs.com/in/index/default.page",
+      "link": "https://drive.google.com/file/d/1cwKbORvoMHqwys0cdBWnzmyWGa0mkvFX/view",
+      "issuedBy": "DBS Bank",
+      "issuedByImage": "https://media-exp1.licdn.com/dms/image/C4D0BAQEaBXOgNiu3sg/company-logo_200_200/0/1531757731989?e=1655337600&v=beta&t=cJdeacfGHjGMmjQKINT1IVDqpb2EOBsCUWhPxIzNnZ0"
+    },
+    {
+      "name": "AppSecTitan Bronze",
+      "issuedOn": "2019-11-04",
+      "validFor": "No",
+      "link": "https://drive.google.com/file/d/1JUL9BEc_LwwX-EMdkhyHg9piSiEkVfRn/view",
+      "issuedBy": "DBS Bank",
+      "webLink": "https://www.dbs.com/in/index/default.page",
+      "issuedByImage": "https://media-exp1.licdn.com/dms/image/C4D0BAQEaBXOgNiu3sg/company-logo_200_200/0/1531757731989?e=1655337600&v=beta&t=cJdeacfGHjGMmjQKINT1IVDqpb2EOBsCUWhPxIzNnZ0"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Prediction of Heart Disease Using Machine Learning Algorithms",
+      "journalName": "International Journal of Engineering & Technology",
+      "date": "2018-04-01",
+      "paperLink": "https://www.sciencepubco.com/index.php/ijet/article/view/15714",
+      "scopusPage": "https://www.scopus.com/sourceid/21100805731#tabs=2",
+      "ISSN": "2227-524X",
+      "journalImagePath": "/images/papers/paper-ijoet.PNG"
+    }
+  ]
+}

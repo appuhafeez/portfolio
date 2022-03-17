@@ -1,0 +1,53 @@
+.card-front {
+  width: 300px;
+}
+.card-back {
+  background: transparent;
+  width: 300px;
+  padding: 5px;
+  height: 380px;
+  justify-content: left;
+  justify-items: left;
+  border-color: #ff531a;
+  bottom: 0;
+  left: 0;
+}
+.art-img {
+  width: 300px;
+  height: 380px;
+  border: "5px solid #ff531a";
+}
+.card {
+  margin: 10px;
+}
+.heading-class {
+  color: #ff531a;
+  justify-content: left;
+  justify-items: left;
+  text-align: left;
+  font-size: 20px;
+}
+.crafts-used {
+  color: white;
+  font-size: 18px;
+}
+.black-btn {
+  cursor: pointer;
+  outline: none;
+  border: 2px solid white;
+  background-color: white;
+  font-size: medium;
+  font-weight: 500;
+  border-radius: 1.2vw;
+  padding: 10px;
+  color: white;
+  display: inline;
+
+  background-color: #000010;
+  transition: all 0.2s;
+  transition-duration: 450ms;
+}
+.black-btn:hover {
+  background-color: white;
+  color: black;
+}

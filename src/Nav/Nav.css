@@ -1,0 +1,50 @@
+.nav-item-d {
+  color: white;
+  padding: 10px;
+}
+.nav-item-b {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  border-radius: 2vw;
+  cursor: pointer;
+}
+.nav-item-b:hover {
+  color: #ff531a;
+  background-color: white;
+  border-radius: 2vw;
+}
+.activeNavClass {
+  border-bottom: 1px solid #ff531a;
+  color: #ff531a;
+}
+.navbar-h {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 20px;
+  height: 30px;
+  z-index: 1;
+  /* Animations */
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+}
+.nav__black {
+  background-color: #0a1929;
+}
+.menu-class {
+  background-color: #0a1929;
+  color: white;
+}
+.menu-c {
+  background-color: #0a1929;
+  color: white;
+}
+.MuiMenu-paper {
+  background-color: #0a1929;
+  color: white;
+}
+.active-scroll-class {
+  background-color: #0a1929;
+  color: #ff531a;
+}

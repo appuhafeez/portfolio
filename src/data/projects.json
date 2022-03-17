@@ -1,0 +1,69 @@
+[
+  {
+    "projectName": "Movie Library",
+    "projectYear": "2022",
+    "imagePath": "/images/projects/movie-lib.png",
+    "githubUrl": "https://github.com/appuhafeez/movie-library-fe",
+    "description": "In this app i used TMDB API to create a movie library",
+    "isImageInProject": true,
+    "technologiesUsed": [
+      "Reactjs",
+      "Bootstrap",
+      "Java",
+      "Spring boot",
+      "Spring reactor",
+      "Mongodb"
+    ]
+  },
+  {
+    "projectName": "Tic Toc Toe",
+    "projectYear": "2020-21",
+    "imagePath": "/images/projects/tictoctoe.png",
+    "githubUrl": "https://github.com/appuhafeez/tik-tok-toe-frontend",
+    "demoUrl": "https://appuhafeez.github.io/tik-tok-toe-frontend/home",
+    "documentationUrl": "https://appuhafeez.github.io/posts/tictoctoe-game-end-to-end-app/",
+    "description": "In this app i revisited all major technologies i know to bring a tictoctoe game into live",
+    "isImageInProject": true,
+    "technologiesUsed": [
+      "Angular",
+      "Material UI",
+      "Bootstrap",
+      "Java",
+      "Spring boot",
+      "Redis",
+      "TypeScript",
+      "Websockets",
+      "Microservices"
+    ]
+  },
+
+  {
+    "projectName": "NeedBlood",
+    "projectYear": "2018-19",
+    "imagePath": "/images/projects/needblood.png",
+    "githubUrl": "https://github.com/appuhafeez/needblood",
+    "description": "I initiated this project with group of upcoming collage graduates with help of faculty of KLUniversity in a mission to bring blood donars and people who are in need of blood together. This served people of South Indian states for 2years until finally takendown in Feb 2020 from playstore due to lack of contributions for latest Android versions ",
+    "isImageInProject": true,
+    "technologiesUsed": ["Android", "PHP for backend", "MySql", "Android java"]
+  },
+  {
+    "projectName": "KLUFN",
+    "projectYear": "2016-17",
+    "imagePath": "/images/projects/KLUFN.png",
+    "githubUrl": "https://github.com/appuhafeez/KLUFN.png",
+    "demoUrl": "https://play.google.com/store/apps/details?id=duobroscreations.klufn&hl=en_IN&gl=US",
+    "description": "This is android app i created along with couple of my friends to bring collage information to students without need of searching entire website for information required specific to student like exam results, hobby club announcements",
+    "isImageInProject": true,
+    "technologiesUsed": ["Android", "PHP for backend", "MySql", "Android java"]
+  },
+  {
+    "projectName": "KL Radio",
+    "projectYear": "2017-18",
+    "imagePath": "/images/projects/klradio.jpg",
+    "documentationUrl": "https://www.facebook.com/kluradio/",
+    "demoUrl": "https://play.google.com/store/apps/details?id=com.atiivanns.younify",
+    "description": "I worked on initial release of this android app as part of startup KL Radio to bring voice of collage students currently is project is merged with YOUNIFY app together called YOUNIFY KLRADIO",
+    "isImageInProject": true,
+    "technologiesUsed": ["Android", "PHP for backend", "MySql", "Android java"]
+  }
+]

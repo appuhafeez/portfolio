@@ -1,0 +1,31 @@
+.header-art {
+  position: fixed;
+  justify-content: left;
+  z-index: 99 !important;
+  width: 100%;
+  padding: 10px;
+  text-align: left;
+  background-color: #0a1929;
+}
+.home-button {
+  cursor: pointer;
+  outline: none;
+  border: 2px solid black;
+  font-size: medium;
+  text-align: left;
+  justify-content: left;
+  font-weight: 500;
+  border-top-left-radius: 1.2vw;
+  border-bottom-left-radius: 1.2vw;
+  padding: 10px;
+  color: white;
+  display: inline;
+  background-color: #ff531a;
+  padding: 10px;
+  transition: all 0.2s;
+  transition-duration: 450ms;
+}
+.home-button:hover {
+  background-color: white;
+  color: black;
+}

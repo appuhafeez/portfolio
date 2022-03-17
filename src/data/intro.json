@@ -1,0 +1,39 @@
+{
+  "name": "Hafeez Shaik",
+  "resume": "https://drive.google.com/uc?id=1zamLVjmPK3TVPebsi80jAKdcFOQyIeGG&export=download",
+  "careerStartDate": "2018-07-22",
+  "profilePicUrl": "/images/profile-pic.jpg",
+  "desc": [
+    "Java, Microservice Developer with 3+ years experience",
+    "Skilled in Java, Spring boot (REST Web services, JSON), Spring, PCF, Cloud, AWS certified, IBM MQ, Unit and integration test with Junit and Mockito, Jenkins, Relational db(MySql, Mariadb), NoSql(Redis)",
+    "Strong engineering professional with knowledge on secured coding and OWASP vulnerabilities",
+    "Having Experience in Agile process with use of issue tracking systems like Jira",
+    "Bachelor's degree focused in Computer Science from KL University. Demonstrate the ability to work independently and manage multiple tasks"
+  ],
+  "topSkills": [
+    "Java",
+    "Spring boot",
+    "Redis",
+    "MySql",
+    "Hibernate",
+    "Jira",
+    "Git/Bitbucket",
+    "Maven/Gradle",
+    "PCF",
+    "Hibernate",
+    "Microservices"
+  ],
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/shaik.hafeezappu",
+    "linkedIn": "https://www.linkedin.com/in/hafeez-shaik-540890122/",
+    "twitter": "https://twitter.com/appuhafeez",
+    "github": "https://github.com/appuhafeez",
+    "instagram": "https://www.instagram.com/appu_hafeez/"
+  },
+  "top-skills": [
+    "Java/Spring-boot developer",
+    "AWS Certified",
+    "Microservices",
+    "Fullstack developer"
+  ]
+}

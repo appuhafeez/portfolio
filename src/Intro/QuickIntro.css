@@ -1,0 +1,64 @@
+.img-quick-intro {
+  max-width: 500px;
+  text-align: left;
+  justify-content: left;
+  padding: 20px;
+  transition-duration: 450ms;
+  background: linear-gradient(180deg, transparent, #666666, #000000);
+}
+.img-quick-intro:hover {
+  transform: scale(1.2);
+}
+.body-div {
+  padding-top: 10px;
+  text-align: left;
+  justify-content: left;
+  color: white;
+  padding: 25px;
+  height: 100%;
+  border-radius: 1vw;
+}
+
+.name-h {
+  color: #ff531a;
+  font-size: 20px;
+}
+.name-d {
+  color: white;
+}
+.aboutme {
+  font-size: 17px;
+  word-spacing: 0%;
+}
+.mobile-body {
+  padding-top: 30px;
+  border-radius: 3vw;
+}
+.mobile-view-img {
+  max-height: 250px;
+  border-radius: 50%;
+  background-color: aliceblue;
+  padding: 10px;
+  text-align: center;
+  justify-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+.edge-adjust {
+  border-radius: 3vw;
+  transition-duration: 450ms;
+}
+.edge-adjust:hover {
+  transform: scale(1.2);
+}
+.main-head {
+  text-align: center;
+  font-size: 35px;
+  font-weight: 700;
+  justify-content: center;
+}
+.main-div {
+  padding-bottom: 30px;
+}
